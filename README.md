@@ -5,7 +5,11 @@
 <h1 align="left">I am a Software Development Engineer 💻</h1>
 
 ###
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 
+###
 <h2 align="left">About me</h2>
 
 ###
