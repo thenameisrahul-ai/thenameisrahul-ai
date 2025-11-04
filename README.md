@@ -1,6 +1,6 @@
  ![Banner](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-<h1 align="left">I am a Software Development Engineer 💻</h1>
+# Hey there! :wave::smiley:
 
 ###
 <p align="left">
