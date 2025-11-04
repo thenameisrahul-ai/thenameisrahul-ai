@@ -65,3 +65,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/thenameisrahul-ai/thenameisrahul-ai/output/snake.svg" alt="Snake animation" />
+
+###
