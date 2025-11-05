@@ -19,6 +19,7 @@
 <p align="left">✨ Creating bugs since: 2018<br>📚 I'm currently learning: System Design & DSA<br>🎯 Goals: Build scalable backend systems and contribute to open-source projects<br>🎲 Fun fact: My code works perfectly… until someone’s watching 👀</p>
 
 ###
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h2 align="left">Skills</h2>
 
