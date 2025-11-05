@@ -21,7 +21,7 @@
 ###
 <br><img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h2 align="left">Skills</h2>
+<h2 align="left"> 👨‍💻Tech Stack</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 </div>
 
 ###
-
+<h2 align="left">🌐Find Me Online</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/theysayrdg?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
  <a href="https://www.leetcode.com/kael6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kael6666" height="30" width="40" /></a>
