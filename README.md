@@ -67,27 +67,12 @@
 <h2 align="left">🌐Find Me Online</h2>
 
 
-  <p align="left">
+ <p align="left">
   <a href="https://www.linkedin.com/in/theysayrdg" target="_blank">
-    <span>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-    </span>
-  </a>
-   
- <a href="https://leetcode.com/kael6666" target="_blank">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-           alt="LeetCode" height="28" width="28" />
-    </span>
- </a>
-
-  <a href="https://www.hackerearth.com/thenameisrdg" target="_blank">
-    <span>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-           alt="HackerEarth" height="28" width="28" />
-    </span>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 </p>
+
 
 
 
