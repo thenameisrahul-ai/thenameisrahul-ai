@@ -21,6 +21,15 @@
 ![](https://github-readme-stats.shion.dev/api?username=thenameisrahul-ai&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=thenameisrahul-ai&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thenameisrahul-ai&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thenameisrahul-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
